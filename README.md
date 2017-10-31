@@ -3,3 +3,5 @@ This utility will calculate the horizontal or vertical coverage pattern of a poi
 Enter the dispersion angle from the manufacturer's documents and the measured distance from source to listener (or other location of interest).
 
 Results are returned in feet.
+
+Requires Future compatibility additions from http://www.python-future.org
