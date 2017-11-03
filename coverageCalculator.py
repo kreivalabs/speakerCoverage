@@ -30,6 +30,11 @@ coverage_pattern_round = str(round(coverage_pattern, 2))
 
 # Return results, prompt for user input to quit
 print("Approximate speaker coverage pattern is: ", coverage_pattern_round, "ft.")
+
+# Return results, prompt for user input to quit.
+print("=" * 80)
+print("Speaker coverage pattern is: ", coverage_pattern_round, "ft.")
+>>>>>>> Stashed changes
 print()
 print("Press the <Enter> key to exit.")
 input()
